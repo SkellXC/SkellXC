@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video games
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Skell#6084 via discord
+- 📫 How to reach me Skell#3234 via discord
 
 <!---
 SkellXC/SkellXC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
