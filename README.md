@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SkellXC
 - 👀 I’m interested in Video games
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me SkellXC via discord
 
 <!---
